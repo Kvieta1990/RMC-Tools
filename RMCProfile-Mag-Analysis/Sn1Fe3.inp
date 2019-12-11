@@ -1,0 +1,5 @@
+NUC_CONFIG_FILE :: Sn1Fe3.rmc6f
+MAG_CONFIG_FILE :: 10K_Sn1Fe3_spin.cfg
+MAG_ATOM_TYPE :: Fe
+MAG_CLUSTER_RADIUS :: 6 %% In angstrom
+OUTPUT_FILE :: mag_cluster_Sn1Fe3_R6.out

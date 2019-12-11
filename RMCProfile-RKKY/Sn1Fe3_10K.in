@@ -1,0 +1,5 @@
+RMC6F_FILE :: Sn1Fe3_10K.rmc6f %% RMC configuration file in rmc6f format
+FERMI_ENERGY :: 11.1	%% in eV
+J_TO_J0_PARAMETERS :: -0.02 0.02 100	%% Number of bins
+J_TO_J0_WINDOW :: T -0.015 0 100 Sn1Fe3_10K_Fine_Dist.out
+OUT_FILE :: Sn1Fe3_10K_Fine.out %% Output file containing the J/J0 distribution
